@@ -32,8 +32,8 @@ const images = [
 ];
 
 const videos = [
-  { id: "dQw4w9WgXcQ", label: "Temple Utsavam Highlights" },
-  { id: "dQw4w9WgXcQ", label: "Wedding Welcome Melam" },
+  { id: "dJfpNfJEzxU", label: "Temple Utsavam Highlights" },
+  { id: "dJfpNfJEzxU", label: "Wedding Welcome Melam" },
 ];
 
 function Gallery() {

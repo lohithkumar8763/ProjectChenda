@@ -7,7 +7,7 @@ export const site = {
   phoneDisplay: "082815 85964",
   whatsapp: "918281585964",
   instagram: "https://instagram.com",
-  email: "booking@mayooravadhyakala.in",
+  email: "mayooravsk@gmail.com",
   address: "Adkasthala Katukukke Rd, Enmakaje, Kerala 671552",
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Adkasthala+Katukukke+Rd+Enmakaje+Kerala+671552",
   mapsEmbed:
