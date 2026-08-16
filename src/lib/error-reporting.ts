@@ -1,4 +1,4 @@
-// src/lib/lovable-error-reporting.ts
+// src/lib/error-reporting.ts
 
 export type LovableErrorContext = {
   boundary?: string;
