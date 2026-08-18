@@ -8,7 +8,7 @@ A modern and responsive website created for Mayoora Vadhyakala, a traditional Ch
 
 This website provides information about Mayoora Vadhyakala and showcases their Chenda Melam performances and services.
 
-The website is designed to give visitors an easy way to:
+The website allows visitors to:
 
 - Learn about the group
 - View performances and activities
@@ -21,7 +21,7 @@ The website is designed to give visitors an easy way to:
 - Responsive design
 - Mobile-friendly interface
 - Clean and simple UI
-- Performance/gallery section
+- Performance and gallery section
 - About section
 - Contact section
 - Easy navigation
@@ -32,10 +32,13 @@ The website is designed to give visitors an easy way to:
 
 - HTML
 - CSS
-- JavaScript / TypeScript
+- JavaScript
+- TypeScript
 - React
 - Vite
 - Vercel
+
+«Note: I have basic knowledge of TypeScript and React. This project was developed with the help of AI tools, including ChatGPT, while learning and understanding the code.»
 
 🚀 Live Demo
 
@@ -79,7 +82,7 @@ Open the local URL shown in the terminal.
 
 Developed as a website project for Mayoora Vadhyakala.
 
-AI-assisted development was used during the development process.
+I have basic knowledge of React and TypeScript and used ChatGPT as an AI-assisted development tool to help build, understand, and improve parts of the project.
 
 📄 License
 
